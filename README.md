@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+It's a simple program who helps me to learn some methods, concepts and see how it works. I'll comment later about every class, function or object. That's will help other people who see this repo.
 
 ## Getting Started
 
